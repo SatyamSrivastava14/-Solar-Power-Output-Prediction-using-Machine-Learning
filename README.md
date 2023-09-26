@@ -1,4 +1,4 @@
-# -Solar-Power-Output-Prediction-using-Machine-Learning
+# Solar-Power-Output-Prediction-using-Machine-Learning
 This GitHub repository presents a comprehensive solution for predicting solar power output using machine learning techniques. Solar energy, as a sustainable and renewable energy source, has gained significant attention in addressing environmental concerns and meeting energy demands. However, its intermittent nature poses challenges for effective integration into the grid. This project aims to address these challenges by providing a predictive model for solar power generation.
 
 ## Data Collection and Preprocessing:
